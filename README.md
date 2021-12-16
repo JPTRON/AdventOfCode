@@ -9,5 +9,6 @@ My [Advent Of Code](https://adventofcode.com/) solutions.
     - [Day 05](./2021/day05)
     - [Day 06](./2021/day06)
     - [Day 07](./2021/day07)
+    - [Day 08](./2021/day08)
 
 
