@@ -12,4 +12,7 @@ My [Advent Of Code](https://adventofcode.com/) solutions.
     - [Day 08](./2021/day08)
     - [Day 09](./2021/day09) _Incomplete :(_
 
+- [2022](./2022)
+    - [Day 01](./2022/day01)
+
 
