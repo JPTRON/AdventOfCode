@@ -16,5 +16,5 @@ My [Advent Of Code](https://adventofcode.com/) solutions.
     - [Day 01](./2022/day01)
     - [Day 02](./2022/day02)
     - [Day 03](./2022/day03)
-
-
+    - [Day 04](./2022/day04)
+    - [Day 05](./2022/day05)
